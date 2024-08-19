@@ -1,0 +1,6 @@
+@pisofinderapi_HostAddress = http://localhost:5184
+
+GET {{pisofinderapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
