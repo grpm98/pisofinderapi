@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pisofinderapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29bee1c9b51de480d4d621443735bdb3832e1726")]
 [assembly: System.Reflection.AssemblyProductAttribute("pisofinderapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pisofinderapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
